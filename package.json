@@ -2,10 +2,10 @@
   "_args": [
     [
       {
-        "raw": "msexcel-builder@0.0.2",
+        "raw": "msexcel-builder-eka@0.0.2",
         "scope": null,
-        "escapedName": "msexcel-builder",
-        "name": "msexcel-builder",
+        "escapedName": "msexcel-builder-eka",
+        "name": "msexcel-builder-eka",
         "rawSpec": "0.0.2",
         "spec": "0.0.2",
         "type": "version"
@@ -13,11 +13,11 @@
       "/app"
     ]
   ],
-  "_from": "msexcel-builder@0.0.2",
-  "_id": "msexcel-builder@0.0.2",
+  "_from": "msexcel-builder-eka@0.0.2",
+  "_id": "msexcel-builder-eka@0.0.2",
   "_inCache": true,
   "_installable": true,
-  "_location": "/msexcel-builder",
+  "_location": "/msexcel-builder-eka",
   "_npmUser": {
     "name": "chuanyi",
     "email": "chuanyi.zheng@gmail.com"
@@ -25,10 +25,10 @@
   "_npmVersion": "1.1.62",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "msexcel-builder@0.0.2",
+    "raw": "msexcel-builder-eka@0.0.2",
     "scope": null,
-    "escapedName": "msexcel-builder",
-    "name": "msexcel-builder",
+    "escapedName": "msexcel-builder-eka",
+    "name": "msexcel-builder-eka",
     "rawSpec": "0.0.2",
     "spec": "0.0.2",
     "type": "version"
@@ -36,17 +36,17 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/msexcel-builder/-/msexcel-builder-0.0.2.tgz",
+  "_resolved": "https://registry.npmjs.org/msexcel-builder-eka/-/msexcel-builder-eka-0.0.2.tgz",
   "_shasum": "dec552f0fb6f3bf368e5bd32bd926535677b03d0",
   "_shrinkwrap": null,
-  "_spec": "msexcel-builder@0.0.2",
+  "_spec": "msexcel-builder-eka@0.0.2",
   "_where": "/app",
   "author": {
     "name": "Charlie Zheng",
     "email": "chuanyi.zheng@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/chuanyi/msexcel-builder/issues"
+    "url": "https://github.com/chuanyi/msexcel-builder-eka/issues"
   },
   "dependencies": {
     "async": "~0.2.6",
@@ -59,25 +59,25 @@
   "directories": {},
   "dist": {
     "shasum": "dec552f0fb6f3bf368e5bd32bd926535677b03d0",
-    "tarball": "https://registry.npmjs.org/msexcel-builder/-/msexcel-builder-0.0.2.tgz"
+    "tarball": "https://registry.npmjs.org/msexcel-builder-eka/-/msexcel-builder-eka-0.0.2.tgz"
   },
   "engines": {
     "node": "*"
   },
-  "homepage": "https://github.com/chuanyi/msexcel-builder#readme",
-  "main": "./lib/msexcel-builder.js",
+  "homepage": "https://github.com/chuanyi/msexcel-builder-eka#readme",
+  "main": "./lib/msexcel-builder-eka.js",
   "maintainers": [
     {
       "name": "chuanyi",
       "email": "chuanyi.zheng@gmail.com"
     }
   ],
-  "name": "msexcel-builder",
+  "name": "msexcel-builder-eka",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git://github.com/chuanyi/msexcel-builder.git"
+    "url": "git://github.com/chuanyi/msexcel-builder-eka.git"
   },
   "tags": [
     "xlsx",
